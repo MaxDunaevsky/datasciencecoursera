@@ -1,9 +1,0 @@
----
-title: "HelloWorld"
-author: "Max Dunaevsky"
-date: '24 may 2019 year '
-output: html_document
----
-
-## This is a markdown file
-*.Rmd new extension for r markdown files.
